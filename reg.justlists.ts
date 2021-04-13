@@ -1,5 +1,5 @@
 {
-"name":"JustSwap REG TRC10 ",
+"name":"REG",
 "tokens":[
 {
 "symbol":"REG",
